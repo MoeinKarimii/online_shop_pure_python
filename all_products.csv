@@ -1,0 +1,4 @@
+product_id,name,quantity,price,rate,comment
+29002502154131,chewing gum,19,20000,"[['avrage of rates', 5.0], ['number of rates', 2], ['sum of rates', 10]]","{'moein': 'amazing product', 'moien_karimi': 'pretty good'}"
+167347442745714,chewing gum,23,10000,"[['avrage of rates', 0.0], ['number of rates', 0], ['sum of rates', 0]]",{}
+212740038911275,butter ice cream,2,20000,"[['avrage of rates', 0.0], ['number of rates', 0], ['sum of rates', 0]]",{}

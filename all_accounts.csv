@@ -1,0 +1,2 @@
+username,password,phone_number,email,purchase_history,my_ratings
+moien_karimi,0bf0bea58b25c8ea95d1899aabc246c0f10536df7dd125aa0cc663e9f56cd6b5,09115480301,moein@gmail.com,"[['amazon.com', '29002502154131', 'chewing gum', 20000], ['amazon.com', '29002502154131', 'chewing gum', 20000], ['amazon.com', '29002502154131', 'chewing gum', 20000], ['amazon.com', '29002502154131', 'chewing gum', 20000]]","{'chewing gum': [5, 'pretty good']}"
